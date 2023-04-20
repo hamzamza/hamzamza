@@ -1,8 +1,6 @@
 
 ## Hello there! 👋
-<p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Hamza Douaij  👋 I'm a Software  Engineer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
+ 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" width="70%"/>
 </div>

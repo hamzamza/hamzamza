@@ -1,3 +1,4 @@
+<div>
 
 <h2> Hi, I'm Douaij Hamza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
@@ -23,4 +24,5 @@ I'm a software engineering student with a passion for mobile development and ful
 
 In addition to my frontend and backend skills, I have a strong foundation in data structures using C and C++. I also have experience working with SQL and NoSQL databases, including MongoDB, SQLite, and Hive database for Flutter.
 
+</div>
 </div>

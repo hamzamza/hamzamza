@@ -6,9 +6,9 @@
  <div id="header" align="center" style="border-radius: 1rem; overflow: hidden;background-color:#aa1111 ;width = 70% ">
   <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" style="width: 100%; height: 100%; object-fit: cover;" >
 </div>
-<a href="https://twitter.com/hamzadouaij" rel="nofollow"><img src="https://camo.githubusercontent.com/a827814e3176a10c995a107c78d68e403b125461358cca4d37291b16e740cb0c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f546861696942726167613f7374796c653d736f6369616c" alt="Twitter: hamzadouaij" data-canonical-src="https://img.shields.io/twitter/follow/ThaiiBraga?style=social" style="max-width: 100%;"></a>
+<a href="https://twitter.com/hamzadouaij" rel="nofollow"><img src="https://camo.githubusercontent.com/a827814e3176a10c995a107c78d68e403b125461358cca4d37291b16e740cb0c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f546861696942726167613f7374796c653d736f6369616c" alt="Twitter: hamzadouaij" data-canonical-src="https://img.shields.io/twitter/follow/hamzamza?style=social" style="max-width: 100%;"></a>
  
-<a href="https://github.com/hamzamza"><img src="https://camo.githubusercontent.com/650b5b1aa80ae2addedd5d961a5d2480dc623a1590af5cb296562ac89f08ed65/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74686169616e653f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="GitHub Thaiane" data-canonical-src="https://img.shields.io/github/followers/hamzamza?label=follow&amp;style=social" style="max-width: 100%;"></a>
+<a href="https://github.com/hamzamza"><img src="https://camo.githubusercontent.com/650b5b1aa80ae2addedd5d961a5d2480dc623a1590af5cb296562ac89f08ed65/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74686169616e653f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="GitHub hamzamza" data-canonical-src="https://img.shields.io/github/followers/hamzamza?label=follow&amp;style=social" style="max-width: 100%;"></a>
 
 <br/>
  <br/>

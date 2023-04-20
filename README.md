@@ -1,15 +1,74 @@
-
-<h2> Hi, I'm Douaij Hamza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-<p><em>Software Enginner at <a href="http://www.ensa-agadir.ac.ma/">national school of applied sciences agadir</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-
- <div id="header" align="center" style="border-radius: 1rem; overflow: hidden;background-color:#aa1111 ;width = 70% ">
-  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" style="width: 100%; height: 100%; object-fit: cover;" >
-</div>
-<a href="https://twitter.com/hamzadouaij" rel="nofollow"><img src="https://camo.githubusercontent.com/a827814e3176a10c995a107c78d68e403b125461358cca4d37291b16e740cb0c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f546861696942726167613f7374796c653d736f6369616c" alt="Twitter: hamzadouaij" data-canonical-src="https://img.shields.io/twitter/follow/hamzamza?style=social" style="max-width: 100%;"></a>
+<style> 
+.padgelink{
+ color:#e6edf3 ;
+  text-decoration: none;
  
-<a href="https://github.com/hamzamza"><img src="https://camo.githubusercontent.com/650b5b1aa80ae2addedd5d961a5d2480dc623a1590af5cb296562ac89f08ed65/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f6c6c6f776572732f74686169616e653f6c6162656c3d666f6c6c6f77267374796c653d736f6369616c" alt="GitHub hamzamza" data-canonical-src="https://img.shields.io/github/followers/hamzamza?label=follow&amp;style=social" style="max-width: 100%;"></a>
+}
+.padgelink:hover{
+  text-decoration: none ; 
+}
+.badge-icon{
+  width: 1rem ; height: 1rem ;  
+}
+.container {
+  display: flex; 
+  flex-direction: column;
+  align-items: center; 
+}
+.padge{
 
+ display: flex ;
+  font-family: 'Times New Roman', Times, serif;
+ gap:.2rem;
+  align-items: center; 
+  
+   padding:.0rem .4rem;
+    background-color:white;
+     width: max-content; 
+     color: black; 
+      border-radius:.2rem;
+}
+</style>
+
+
+
+ <div id="header" align="center" style="border-radius: 1rem; overflow: hidden;width = 70% ">
+  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" style="width: 100%; height: 100%; object-fit: contain; fill" >
+</div>
+<br/>
+
+<div class = "container">
+
+## Find me on the web 🌎
+<div  style = "display: flex; gap:.1rem;"  > 
+ <!--  linkes to my social media  -->
+<a href="https://twitter.com/hamzadouaij"  class ="padgelink"> 
+<div  class="padge"   >  
+<img   src = "./assets/twitter.png" class = "badge-icon">
+  <div> twitter </div>
+</div>
+</a>
+
+<a href="https://twitter.com/hamzadouaij" rel="nofollow" class ="padgelink"> 
+<div  class="padge"   >  
+<img   src = "./assets/instagram.png" class = "badge-icon">
+  <div> Instagram </div>
+</div>
+</a>
+
+<a href="https://twitter.com/hamzadouaij" rel="nofollow" class ="padgelink"> 
+<div  class="padge"   >  
+<img   src = "./assets/linkedin.png" class = "badge-icon">
+  <div> Linkedin </div>
+</div>
+</a>
+ 
+</div>
+ </div>
+ 
+ <h2> Hi, I'm Douaij Hamza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<p><em>Software Enginner at <a href="http://www.ensa-agadir.ac.ma/">ENSA  Agadir  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" style="margin-left: .5rem  " >
 <br/>
  <br/>
 I'm a software engineering student with a passion for mobile development and full-stack development. I'm currently working with Flutter, and I have a good knowledge of Kotlin and Java for Android development. For the backend, I'm using Node.js and Express.js. I also have experience with web development using React, Next.js, and Tailwind CSS. 

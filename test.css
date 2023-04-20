@@ -1,0 +1,9 @@
+.test{
+text-align:justify;
+font-family:monospace;
+padding: 1rem; 
+font-style: normal;
+border: solid 2rem blue ;
+border:.2rem rgb(25, 78, 0) ; 
+border-radius: 1rem;
+}

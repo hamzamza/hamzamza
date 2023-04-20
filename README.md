@@ -6,9 +6,11 @@
  <div id="header" align="center" style="border-radius: 1rem; overflow: hidden;background-color:#aa1111 ;width = 70% ">
   <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" style="width: 100%; height: 100%; object-fit: cover;" >
 </div>
- [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/hamzadouaij)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/hamzadouaij/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/hamzamza)
+<a href="https://twitter.com/hamzadouaij" rel="nofollow"><img src="https://camo.githubusercontent.com/a827814e3176a10c995a107c78d68e403b125461358cca4d37291b16e740cb0c/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f546861696942726167613f7374796c653d736f6369616c" alt="Twitter: hamzadouaij" data-canonical-src="https://img.shields.io/twitter/follow/ThaiiBraga?style=social" style="max-width: 100%;"></a>
+ 
+ 
+ 
+
 <br/>
  <br/>
 I'm a software engineering student with a passion for mobile development and full-stack development. I'm currently working with Flutter, and I have a good knowledge of Kotlin and Java for Android development. For the backend, I'm using Node.js and Express.js. I also have experience with web development using React, Next.js, and Tailwind CSS. 

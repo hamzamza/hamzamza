@@ -1,112 +1,48 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
 
+        .container {
+          background-color: black;
 
-<svg fill="none" viewBox="0 0 400 400" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="100%" height="100%">
-        <div xmlns="http://www.w3.org/1999/xhtml">
-          <style> 
-.padgelink{
- color:#e6edf3 ;
-  text-decoration: none;
- 
-}
-.padgelink:hover{
-  text-decoration: none ; 
-}
-.badge-icon{
-  width: 1rem ; height: 1rem ;  
-}
-.container {
-  display: flex; 
-  flex-direction: column;
-  align-items: center; 
-}
-.padge{
+          width: 100%;
+          height: 300px;
 
- display: flex ;
-  font-family: 'Times New Roman', Times, serif;
- gap:.2rem;
-  align-items: center; 
-  
-   padding:.0rem .4rem;
-    background-color:white;
-     width: max-content; 
-     color: black; 
-      border-radius:.2rem;
-}
-</style>
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
 
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
 
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
 
- <div id="header" align="center" style="border-radius: 1rem; overflow: hidden;width = 70% ">
-  <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" style="width: 100%; height: 100%; object-fit: contain; fill" >
-</div>
-<br/>
+        @media (prefers-reduced-motion) {
+          .hi {
+            animation: none;
+          }
+        }
+      </style>
 
-<div class = "container">
-
-## Find me on the web 🌎
-<div  style = "display: flex; gap:.1rem;"  > 
- <!--  linkes to my social media  -->
-<a href="https://twitter.com/hamzadouaij"  class ="padgelink"> 
-<div  class="padge"   >  
-<img   src = "./assets/twitter.png" class = "badge-icon">
-  <div> twitter </div>
-</div>
-</a>
-
-<a href="https://twitter.com/hamzadouaij" rel="nofollow" class ="padgelink"> 
-<div  class="padge"   >  
-<img   src = "./assets/instagram.png" class = "badge-icon">
-  <div> Instagram </div>
-</div>
-</a>
-
-<a href="https://twitter.com/hamzadouaij" rel="nofollow" class ="padgelink"> 
-<div  class="padge"   >  
-<img   src = "./assets/linkedin.png" class = "badge-icon">
-  <div> Linkedin </div>
-</div>
-</a>
- 
-</div>
- </div>
- 
- <h2> Hi, I'm Douaij Hamza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
-<p><em>Software Enginner at <a href="http://www.ensa-agadir.ac.ma/">ENSA  Agadir  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30" style="margin-left: .5rem  " >
-<br/>
- <br/>
-I'm a software engineering student with a passion for mobile development and full-stack development. I'm currently working with Flutter, and I have a good knowledge of Kotlin and Java for Android development. For the backend, I'm using Node.js and Express.js. I also have experience with web development using React, Next.js, and Tailwind CSS. 
-
-In addition to my frontend and backend skills, I have a strong foundation in data structures using C and C++. I also have experience working with SQL and NoSQL databases, including MongoDB, SQLite, and Hive database for Flutter.
-
-## Find me on the web 🌎
-
-You can find me on the following platforms:
-
-- <a href="YOUR-LINK-HERE" target="_blank"><i class="fab fa-twitter-square"></i> Twitter</a>
-- <a href="YOUR-LINK-HERE" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-- <a href="YOUR-LINK-HERE" target="_blank"><i class="fab fa-github-square"></i> GitHub</a>
-- <a href="YOUR-LINK-HERE" target="_blank"><i class="fas fa-globe"></i> Personal Website</a>
-
-Thank you for visiting my GitHub profile, and feel free to reach out if you have any questions or if you're interested in collaborating on a project!
-
-<!--
-**hamzamza/hamzamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-           
-        </div>
-    </foreignObject>
+      <div class="container">
+        <h1>Hi there, my name is Nikola <div class="hi">👋</div></h1>
+      </div>
+    </div>
+  </foreignObject>
 </svg>

@@ -1,6 +1,8 @@
 
-## Hello there! 👋
- 
+<h2> Hi, I'm Douaij Hamza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
+<p><em>Software Enginner at <a href="http://www.ensa-agadir.ac.ma/">national school of applied sciences agadir</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+
  <div id="header" align="center" style="border-radius: 1rem; overflow: hidden;background-color:#aa1111 ;width = 70% ">
   <img src="https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif" style="width: 100%; height: 100%; object-fit: cover;" >
 </div>

@@ -3,8 +3,8 @@
 <h2> Hi, I'm Douaij Hamza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 <p><em>Software Enginner at <a href="http://www.ensa-agadir.ac.ma/">ENSA  Agadir  </a> 
- <div id="header" align="center" style="border-radius: 1rem; overflow: hidden;width = 70% ;box-shadow: rgba(240, 46, 170, 0.4) 0px 5px, rgba(240, 46, 170, 0.3) 0px 10px, rgba(240, 46, 170, 0.2) 0px 15px, rgba(240, 46, 170, 0.1) 0px 20px, rgba(240, 46, 170, 0.05) 0px 25px; ">
-  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" style="width: 100%; height: 100%; object-fit: contain; fill" >
+ <div id="header" align="center" style="width = 100% ; ">
+  <img src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" with="100%" >
 </div>
 <br/>
 

@@ -3,7 +3,7 @@
 <h2> Hi, I'm Douaij Hamza! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 
-<p><em>Software Enginner at <a href="http://www.ensa-agadir.ac.ma/">ENSA  Agadir  </a> 
+<p><em>Software Enginner student at <a href="http://www.ensa-agadir.ac.ma/">ENSA  Agadir  </a> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/oMHPlvpTvnXGPS7GhX/giphy.gif" width="100%" />

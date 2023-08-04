@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Douaij</h1>
 <h3 align="center">A Junior Software Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzamza&label=Profile%20views&color=0e75b6&style=flat" alt="hamzamza" /> </p>
-
+ 
 <p align="left"> <a href="https://twitter.com/douaijhamza" target="blank"><img src="https://img.shields.io/twitter/follow/douaijhamza?logo=twitter&style=for-the-badge" alt="douaijhamza" /></a> </p>
 
 - 🔭 I’m currently working on **Ismart**

@@ -1,5 +1,4 @@
- [![MasterHead](https://i.gifer.com/43KV.gif)](hamzadouaij-seven.vercel.app )
-
+ [![MasterHead](https://tenor.com/bqrUA.gif)](hamzadouaij-seven.vercel.app )
 <h1 align="center">Hi 👋, I'm Hamza Douaij</h1>
 <h3 align="center">A Junior Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/43KV.gif"/>

@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [hamzadouaij-seven.vercel.app/](hamzadouaij-seven.vercel.app/)
 
-- 💬 Ask me about **react js , next js , flutter , android framework**
+- 💬 Ask me about **node js , flutter , flutter bloc  , kotlin , jetpac compose , android framework **
 
 - 📫 How to reach me **hamzadouaij7@gmail.com**
 

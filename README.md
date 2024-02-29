@@ -1,17 +1,15 @@
  
 <h1 align="center">Hi 👋, I'm Hamza Douaij</h1>
-<h3 align="center">A Junior Software Engineer</h3>
+<h3 align="center">A Junior mobile Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/43KV.gif"/>
 
 <p align="left"> <a href="https://twitter.com/douaijhamza" target="blank"><img src="https://img.shields.io/twitter/follow/douaijhamza?logo=twitter&style=for-the-badge" alt="douaijhamza" /></a> </p>
 
-- 🔭 I’m currently working on **Ismart**
+- 🔭 I’m currently working at **SQLI**
+ 
+- 👨‍💻 All of my projects are available at [hamzadouaij.tech/](hamzadouaij.tech)
 
-- 🌱 I’m currently learning **Jetpack Compose**
-
-- 👨‍💻 All of my projects are available at [hamzadouaij-seven.vercel.app/](hamzadouaij-seven.vercel.app/)
-
-- 💬 Ask me about **node js , flutter , flutter bloc  , kotlin , jetpac compose , android framework **
+- 💬 Ask me about **java-kotlin , jetpac compose , android framework **
 
 - 📫 How to reach me **hamzadouaij7@gmail.com**
 

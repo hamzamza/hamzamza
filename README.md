@@ -40,12 +40,12 @@
 --------------
 
 <p align="center">
-	<a href="mailto:achraf.elkhnissi@icloud.com">
-		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:achraf.elkhnissi@gmail.com&color=3d85c6" />
+	<a href="mailto:hamzadouaij7@gmail.com">
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:hamzadouaij7@gmail.com&color=3d85c6" />
 	</a>
 	<span> * </span>
-    <a href="https://www.linkedin.com/in/achrafelkhnissi/">
-        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/" />
+    <a href="https://www.linkedin.com/in/hamza-douaij/">
+        <img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hamza-douaij/" />
     </a>
     <span> * </span>
     <a href="https://twitter.com/suprivada">

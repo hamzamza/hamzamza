@@ -49,20 +49,19 @@
     </a>
     <span> * </span>
     <a href="https://twitter.com/suprivada">
-        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=1DA1F2" />
+        <img alt="Twitter Profile" src="https://img.shields.io/badge/-Twitter-0072b1?style=flat&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/hamza-douaij/&color=1DA1F2" />
     </a>
     <span> * </span>
     <a href="https://www.linkedin.com/in/achrafelkhnissi/">
-        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/achrafelkhnissi/&color=7289da" />
+        <img alt="Discord Profile" src="https://img.shields.io/badge/-Discord-0072b1?style=flat&logo=Discord&logoColor=white&link=https://www.linkedin.com/in/hamza-douaij/&color=7289da" />
     </a>
 
 </p>
  
 
-<p align="center">
-	<img alt="hamza douaij's visitors" src="https://komarev.com/ghpvc/?username=achrafelkhnissi&color=8c36db&style=flat&label=visitors" />
-	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/achrafelkhnissi?color=blueviolet" />
-	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/achrafelkhnissi?color=blueviolet" />
+<p align="center"> 
+	<img alt="achrafelkhnissi's followers" src="https://img.shields.io/github/followers/hamzamza?color=blueviolet" />
+	<img alt="achrafelkhnissi's stars" src="https://img.shields.io/github/stars/hamzamza?color=blueviolet" />
 </p>
 
 --------------- 

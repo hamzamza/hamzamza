@@ -3,8 +3,8 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Software Engineer Student at Ensa Agadir 
-├─▣ From Taroudant  Morocco
+├─▣ Software Engineer Graduated ( ios and android developer ) 
+├─▣ From Aoulouz  Morocco
 ├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
 ├─▣ Interested in Mobile development Android and IOS.
 │
